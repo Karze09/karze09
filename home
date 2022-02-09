@@ -1,0 +1,87 @@
+<!DOCTYPE html> 
+
+<html lang="en">
+
+   <head>
+
+   <meta charset="UTF-8">
+
+              <title>Soufyane Djelloul website </title>
+
+   </head>
+
+<body>
+
+         <h1> Soufyane Djelloul</h1>
+
+<div>
+
+<a href="www.exemple.com">one</a>
+
+<a href="www.exemple.com">two</a>
+
+<a href="www.exemple.com">three</a>
+
+<a href="www.exemple.com">Contact</a>
+
+</div>
+
+ <h2>Favorite Food</h2>
+
+ 
+
+ <div>
+
+ <ul>
+
+<li>Tacos</li>
+
+<li>Salad</li>
+
+<li>Soap</li>
+
+<li>Pineapple</li>
+
+ </ul>
+
+</div>
+
+<h2>Achievements</h2>
+
+<div>
+
+<label for="file">Progress in the course (100%)</label>
+
+<progress id="file" value="100" max="100"></progress><br>
+
+<label>Progress in the Specialization Capstone(20%)</label>
+
+<progress  value="20" max="100"></progress><br>
+
+<label>Progress in life goals(80%)</label>
+
+<progress value="80" max="100"></progress>
+
+</div>
+
+<h2>More About Me</h2>
+
+<details>
+
+  <summary>My Childhood</summary>
+
+  <p>I grew up in Chlef, Algeria. I lived near the sea and I missed sitting on the beach.</p>
+
+</details>
+
+<footer>
+
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="image">
+
+<p>This page was created by Soufyane Djelloul &amp; Coleen Van Lent. To learn more about web design, visit <a href="www.exemple.com"></a>  </p>
+
+</footer>
+
+</body>
+
+</html>
